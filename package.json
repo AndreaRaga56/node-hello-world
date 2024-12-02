@@ -1,0 +1,12 @@
+{
+  "name": "node-hello-world",
+  "version": "1.0.0",
+  "description": "Esercizio assegnato in data 28.11.2024",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "author": "Andrea Ragazzoli",
+  "license": "ISC"
+}
